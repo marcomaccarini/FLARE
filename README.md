@@ -1,6 +1,5 @@
-# TIGER-LLM
-TIGER-LLM: Transformer-based Intelligent Generative Execution for Robotics using LLM
-
+# FLARE
+FLARE: Fine-Tuned Large language models for Resource-Efficient action planning in robotics
 
 
 ## Installation requirements
