@@ -1,5 +1,5 @@
 # FLARE
-FLARE: Fine-Tuned Large language models for Resource-Efficient action planning in robotics
+FLARE: Fine-Tuned Large language models for Resource-Efficient action generation in robotics
 
 
 ## Installation requirements
